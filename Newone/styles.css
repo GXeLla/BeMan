@@ -89,11 +89,15 @@ button{
 }
 
 button img{
-    margin-right: 13vh;
+    /* margin-right: 13vh; */
     height: 60%;
     width: 14%;
    
-   
+}
+.button{
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 h3{
     text-align: center;
